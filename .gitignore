@@ -1,0 +1,17 @@
+# WorkBuddy 工作目录（非项目代码）
+.workbuddy/
+
+# 临时脚本
+update_locales.py
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# 日志
+*.log
